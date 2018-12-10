@@ -5,7 +5,7 @@
   "author": "zehongfan <fanzehongemail@163.com>",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js --host 10.243.0.116",
+    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js ",
     "start": "npm run dev",
     "build": "node build/build.js"
   },

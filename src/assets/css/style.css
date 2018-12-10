@@ -115,7 +115,7 @@ html {
   height: 100%;
 }
 
-@media screen and (max-width: 544px)
+/* @media screen and (max-width: 544px)
 {
   #selectSort{
     height: 13.11px !important;
@@ -123,4 +123,4 @@ html {
   #selectSecond{
     height: 13.11px !important;
   }
-} 
+}  */

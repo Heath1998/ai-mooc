@@ -10,9 +10,9 @@
 </template>
 
 <script>
-import header from "@/components/initialHeader"
-import content from "@/components/initialContent"
-import contentSecond from "@/components/contentSecond"
+import header from "@/components/firstPage/initialHeader"
+import content from "@/components/firstPage/initialContent"
+import contentSecond from "@/components/firstPage/contentSecond"
 
 export default {
 
